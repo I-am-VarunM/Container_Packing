@@ -1,5 +1,5 @@
 # ContainerPacking
-Container Packing Project - Logistics Lab IIT Madras
+Container Packing Project
 
 #### Run Instructions
     g++ 3dcpp.cpp packer.cpp -o packer.out
